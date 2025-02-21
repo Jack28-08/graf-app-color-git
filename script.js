@@ -71,3 +71,4 @@ document.addEventListener("DOMContentLoaded", function () {
 
     updateColor(); // Inicializa el color
 });
+// Comentario en JavaScript
